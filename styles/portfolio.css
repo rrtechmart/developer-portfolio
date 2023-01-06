@@ -141,4 +141,21 @@ hr{
     font-size: 20px;
     border: none;
 }
+.contact{
+    display: flex;
+    background-color:  #FFF8F3;
+}
+.contact-call{
+    width: 50%;
+}
+.contact-mail{
+    display: block;
+    justify-content: center;
+}
+.name-mail{
+    display: block;
+    margin: 10px;
+    width: 460px;
+
+}
 
